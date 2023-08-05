@@ -1638,11 +1638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zukinkalitshana/Projects/a_womanswork/a_womanswork/a_womanswork.csproj",
+      "projectUniqueName": "/Users/zukinkalitshana/Projects/GirlCodeHack23/a_womanswork/a_womanswork.csproj",
       "projectName": "a_womanswork",
-      "projectPath": "/Users/zukinkalitshana/Projects/a_womanswork/a_womanswork/a_womanswork.csproj",
+      "projectPath": "/Users/zukinkalitshana/Projects/GirlCodeHack23/a_womanswork/a_womanswork.csproj",
       "packagesPath": "/Users/zukinkalitshana/.nuget/packages/",
-      "outputPath": "/Users/zukinkalitshana/Projects/a_womanswork/a_womanswork/obj/",
+      "outputPath": "/Users/zukinkalitshana/Projects/GirlCodeHack23/a_womanswork/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zukinkalitshana/.config/NuGet/NuGet.Config"

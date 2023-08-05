@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{406841B3-64A2-401C-A47C-25058406BC6C}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="a_womanswork" expanded="True">
+            <Node name="a_womanswork" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.a__womanswork PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
