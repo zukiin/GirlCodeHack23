@@ -1,33 +1,43 @@
 ﻿<Properties StartupConfiguration="{406841B3-64A2-401C-A47C-25058406BC6C}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="a_womanswork/Views/Shared/_LoginPartial.cshtml">
     <Files>
       <File FileName="a_womanswork/Models/AppDbContext.cs" Line="9" Column="47" />
       <File FileName="a_womanswork/Data/ApplicationDbContext.cs" Line="14" Column="28" />
       <File FileName="a_womanswork/Controllers/PostsController.cs" Line="18" Column="21" />
       <File FileName="a_womanswork/Models/PostService.cs" Line="24" Column="36" />
-      <File FileName="a_womanswork/Views/Home/Index.cshtml" Line="11" Column="51" />
-      <File FileName="a_womanswork/Views/Post/Create.cshtml" Line="23" Column="84" />
+      <File FileName="a_womanswork/Views/Home/Index.cshtml" Line="12" Column="7" />
       <File FileName="a_womanswork/Controllers/PostController.cs" Line="57" Column="42" />
+      <File FileName="a_womanswork/Views/Post/Create.cshtml" Line="22" Column="58" />
+      <File FileName="a_womanswork/Startup.cs" Line="65" Column="62" />
+      <File FileName="a_womanswork/Program.cs" Line="1" Column="1" />
+      <File FileName="a_womanswork/Models/Post.cs" Line="1" Column="1" />
+      <File FileName="a_womanswork/Models/User.cs" Line="1" Column="1" />
+      <File FileName="a_womanswork/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="a_womanswork/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="a_womanswork/Views/Shared/_LoginPartial.cshtml" Line="23" Column="89" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="a_womanswork" expanded="True">
             <Node name="a_womanswork" expanded="True">
+              <Node name="Areas" expanded="True" />
               <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
-                <Node name="Post" expanded="True">
-                  <Node name="Create.cshtml" selected="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_LoginPartial.cshtml" selected="True" />
                 </Node>
               </Node>
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.a__womanswork PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.ItemProperties.a__womanswork PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
